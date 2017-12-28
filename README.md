@@ -1,2 +1,2 @@
-prithv1.github.io
+kalyanghosh.github.io
 =================
